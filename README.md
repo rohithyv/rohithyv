@@ -13,7 +13,7 @@ I have experience in **full-stack development**, **cloud computing** (AWS, Azure
 
 ### 📫 Connect with me:
 - LinkedIn: [linkedin.com/in/rohith-yv](https://www.linkedin.com/in/rohith-yv)
-- GitHub: [@rohithyv](https://github.com/rohithyv)
+- GitHub: [@rohithyv](https://www.linkedin.com/in/rohith-yv/)
 - Email: rohithyvcs@gmail.com  
 - Email (University): rohithyvv@gwu.edu
 
