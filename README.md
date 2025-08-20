@@ -12,7 +12,7 @@ I have experience in **full-stack development**, **cloud computing** (AWS, Azure
 - Scalable System Design
 
 ### 📫 Connect with me:
-- Portfolio: [https://rohithvijayakumar.netlify.app/](https://portfolio-rohithyv.vercel.app/)
+- Portfolio: https://portfolio-rohithyv.vercel.app
 - LinkedIn: https://www.linkedin.com/in/rohith-yv
 - GitHub: https://github.com/rohithyv
 - Email: rohithyvcs@gmail.com  
