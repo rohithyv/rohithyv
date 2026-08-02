@@ -1,8 +1,17 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Rohith Yellambalase Vijayakumar**, a Master's student in Computer Science at **George Washington University**, passionate about building impactful and scalable software systems.
+# Hi, I'm Rohith 👋 
+Frontend Developer and MS Computer Science graduate focused on building responsive, accessible and production-ready web applications.
 
 I have experience in **full-stack development**, **cloud computing** (AWS, Azure), and **Generative AI**, with hands-on projects in web applications, automation, and data-driven solutions. I’ve previously worked with companies like **Sony (PlayStation)** and **Hewlett Packard Enterprise**, contributing to high-performance UI systems and cloud-integrated tools.
+
+## Frontend Stack
+
+- React, JavaScript, HTML and CSS
+- REST API integration
+- Responsive and accessible interfaces
+- Git, GitHub and Vercel
+- Currently improving TypeScript and frontend testing
 
 ### 🚀 What I’m interested in:
 - Frontend & Backend Web Development (React, Node.js)
@@ -14,7 +23,7 @@ I have experience in **full-stack development**, **cloud computing** (AWS, Azure
 ### 📫 Connect with me:
 
 - LinkedIn: https://www.linkedin.com/in/rohith-yv
-- GitHub: https://github.com/rohithyv 
+- GitHub: https://github.com/rohithyv
 - Email : rohithyvv@gwu.edu
 
 
