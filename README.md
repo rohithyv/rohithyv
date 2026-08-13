@@ -5,34 +5,6 @@ Frontend Developer and MS Computer Science graduate focused on building responsi
 
 I have experience in **full-stack development**, **cloud computing** (AWS, Azure), and **Generative AI**, with hands-on projects in web applications, automation, and data-driven solutions. I’ve previously worked with companies like **Sony (PlayStation)** and **Hewlett Packard Enterprise**, contributing to high-performance UI systems and cloud-integrated tools.
 
-## Frontend Stack
-
-- React, JavaScript, HTML and CSS
-- REST API integration
-- Responsive and accessible interfaces
-- Git, GitHub and Vercel
-- Currently improving TypeScript and frontend testing
-
-### 🚀 What I’m interested in:
-- Frontend & Backend Web Development (React, Node.js)
-- Cloud-Native Applications (AWS, Azure)
-- DevOps & CI/CD
-- Generative AI & NLP
-- Scalable System Design
-
-### 📫 Connect with me:
-
-- LinkedIn: https://www.linkedin.com/in/rohith-yv
-- GitHub: https://github.com/rohithyv
-- Email : rohithyvv@gwu.edu
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohith-yv/) 
-
-
 # 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,6 +24,25 @@ I have experience in **full-stack development**, **cloud computing** (AWS, Azure
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
+### 🚀 What I’m interested in:
+- Frontend & Backend Web Development (React, Node.js)
+- Cloud-Native Applications (AWS, Azure)
+- DevOps & CI/CD
+- Generative AI & NLP
+- Scalable System Design
+
+### 📫 Connect with me:
+
+- LinkedIn: https://www.linkedin.com/in/rohith-yv
+- GitHub: https://github.com/rohithyv
+- Email : rohithyvv@gwu.edu
+
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohith-yv/) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohithyv&icon=0&color=0)](https://visitcount.itsvg.in)
