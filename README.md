@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 # Hi, I'm Rohith 👋 
-Frontend Developer and MS Computer Science graduate focused on building responsive, accessible and production-ready web applications.
+Software Engineer and MS Computer Science graduate focused on building responsive, accessible and production-ready web applications.
 
 I have experience in **full-stack development**, **cloud computing** (AWS, Azure), and **Generative AI**, with hands-on projects in web applications, automation, and data-driven solutions. I’ve previously worked with companies like **Sony (PlayStation)** and **Hewlett Packard Enterprise**, contributing to high-performance UI systems and cloud-integrated tools.
 
